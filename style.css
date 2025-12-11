@@ -36,3 +36,18 @@ p {
     font-weight: 600;
    -webkit-text-stroke : 1px black;
 }
+Avec un peu de style :
+
+.search-bar {
+    margin-top: 10px;
+    padding: 8px;
+    width: 300px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+h5{
+    color: rgb(255, 255, 255);
+    font-weight: 900;
+   -webkit-text-stroke : 1px black;
+}
