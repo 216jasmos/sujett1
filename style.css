@@ -27,6 +27,8 @@ body {
 
 h1 {
     color: rgb(212, 0, 149);
+        font-weight: 900;
+      -webkit-text-stroke : 1px black;
 }
 
 p {
